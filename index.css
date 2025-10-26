@@ -1,0 +1,10 @@
+#abc{
+    font-size: 19pt;
+    color:burgundy;
+    font-family: cursive;
+    font-style: normal;
+    display:inline;
+    flex-direction:row;
+    margin-left: 50px;
+    padding-left: 10px;
+}
